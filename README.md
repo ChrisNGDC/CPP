@@ -1,8 +1,11 @@
-# Programas Propios en varios Lenguajes
+# Programas Propios
 
-[c++]
+[C++]
 
 Numeros Primos
+
 Generar Bolilleros
+
 Sortear Grupos
+
 Mostrar condicionado
