@@ -1,6 +1,4 @@
-# pruebas-git
-pruebas con git
+# Programas Propios en varios Lenguajes
 
-primer cambio
-
-Segundo cambio
+Ejerciocio 1,2,3 [C]
+Numeros Primos [C]
