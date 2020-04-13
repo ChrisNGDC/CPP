@@ -1,5 +1,8 @@
 # Programas Propios en varios Lenguajes
 
-Ejerciocio 1,2,3 [C++]
+[c++]
 
-Numeros Primos [C++]
+Numeros Primos
+Generar Bolilleros
+Sortear Grupos
+Mostrar condicionado
