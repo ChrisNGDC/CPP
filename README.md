@@ -4,7 +4,8 @@
 
 - Numeros Primos
 
-- Mundial 2018  ->   Generar Bolilleros
+- Mundial 2018  
+                ->   Generar Bolilleros
 
                 ->   Sortear Grupos
 
