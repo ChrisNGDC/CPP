@@ -5,11 +5,11 @@
 - Numeros Primos
 
 - Mundial 2018
-                
-                ->   Generar Bolilleros
 
-                ->   Sortear Grupos
+    -> Generar Bolilleros
 
-                ->   Mostrar condicionado
+    -> Sortear Grupos
+
+    -> Mostrar condicionado
 
 - Proxiammente
