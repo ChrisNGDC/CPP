@@ -2,10 +2,12 @@
 
 [C++]
 
-Numeros Primos
+- Numeros Primos
 
-Generar Bolilleros
+- Mundial 2018  |>   Generar Bolilleros
+                |
+                |>   Sortear Grupos
+                |
+                |>   Mostrar condicionado
 
-Sortear Grupos
-
-Mostrar condicionado
+- Proxiammente
